@@ -61,7 +61,7 @@
 
 1 - systemctl restart zabbix-server zabbix-agent apache2
 
-2 - systemctl enable zabbix-server zabbix-agent apache2,
+2 - systemctl enable zabbix-server zabbix-agent apache2
 
 ------------------------------------------------------------------------------------------------------------------------------
 
